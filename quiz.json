@@ -1,0 +1,18 @@
+[
+  {
+    "soru": "ilk soru",
+    "secenek a": "Van",
+    "secenek b": "Kayseri",
+    "secenek c": "Adana",
+    "secenek d": "Denizli",
+    "cevap": "a"
+  },
+  {
+    "soru": "ikinci soru",
+    "secenek a": "Van",
+    "secenek b": "Kayseri",
+    "secenek c": "Adana",
+    "secenek d": "Denizli",
+    "cevap": "b"
+  }
+  ]
